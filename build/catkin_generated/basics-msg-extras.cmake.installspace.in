@@ -1,0 +1,2 @@
+set(basics_MESSAGE_FILES "msg/activate.msg")
+set(basics_SERVICE_FILES "")
