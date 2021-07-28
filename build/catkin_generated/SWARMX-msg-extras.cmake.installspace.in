@@ -1,2 +1,0 @@
-set(SWARMX_MESSAGE_FILES "msg/activate.msg")
-set(SWARMX_SERVICE_FILES "srv/getID.srv")

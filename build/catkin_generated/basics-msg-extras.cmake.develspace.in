@@ -1,2 +1,0 @@
-set(basics_MESSAGE_FILES "/home/hk/catkin_ws/src/swarmx/msg/activate.msg")
-set(basics_SERVICE_FILES "")

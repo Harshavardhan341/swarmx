@@ -1,8 +1,0 @@
-prefix=/home/hk/catkin_ws/src/swarmx/build/devel
-
-Name: swarmx
-Description: Description of swarmx
-Version: 0.0.0
-Cflags: -I/home/hk/catkin_ws/src/swarmx/build/devel/include
-Libs: -L${prefix}/lib 
-Requires: 
